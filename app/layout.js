@@ -4,6 +4,10 @@ import Footer from "./components/Footer";
 import BackgroundGrid from "./components/BackgroundGrid";
 
 export const metadata = {
+   verification: {
+    google: "t65cIjTeDxVQIcpGy_vwKe5O8W1cElYv3pz_KfhUfBg",
+  },
+
   metadataBase: new URL("https://www.internalaccountants.com"),
   title: {
     default: "Internal Accountants | Global Bookkeeping, Accounting & Compliance",
